@@ -1,7 +1,16 @@
+## Creación de comentarios y endpoints
+![image](https://github.com/Fuerzas-Armadas-ESPE/crear-endpoints-helldivers/assets/67701130/23a158ca-1443-4515-bd4d-ea62234fdab6)
+
+![image](https://github.com/Fuerzas-Armadas-ESPE/crear-endpoints-helldivers/assets/67701130/b30e7e1a-5632-4c98-b952-a24f3081076a)
+
+## Guardar comentarios y publicaciones en BDD
+![image](https://github.com/Fuerzas-Armadas-ESPE/crear-endpoints-helldivers/assets/67701130/2ca81315-dc61-4a3b-953c-57f0253cf2f1)
+
+![image](https://github.com/Fuerzas-Armadas-ESPE/crear-endpoints-helldivers/assets/67701130/63a819a3-b7e0-4335-b107-5950df9f6598)
+
 # Blog Personal Nest
 
 ![Blog Personal Nest](img/image.png)
-
 
 Este es un proyecto de blog personal desarrollado con NestJS.
 
